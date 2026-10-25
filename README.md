@@ -43,7 +43,3 @@ Space play / pause · ← → ±10 s (Shift: 1 min) · ↑ ↓ volume · M mute 
 ## Privacy
 
 Playback, recognition and frame capture run locally. Ink goes online only when you ask: to download the subtitle model, translate subtitles or check for updates. The installer downloads VLC from videolan.org only if it is missing. No ads, no telemetry. Checksums: **SHA256SUMS.txt** in each release.
-
-## Author
-
-Svekolsky — [Telegram](https://t.me/Svekolsky)
