@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.7/InkPlayer-Setup-0.7.exe"><img src="assets/download.svg" width="256" height="56" alt="Download for Windows — Installer, 64-bit, 3.2 MB" /></a>
+  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8/InkPlayer-Setup-0.8.exe"><img src="assets/download.svg" width="256" height="56" alt="Download for Windows — Installer, 64-bit, 3.2 MB" /></a>
   &nbsp;
-  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.7/InkPlayer-0.7.zip"><img src="assets/zip.svg" width="232" height="56" alt="ZIP — EXE and install script, 1.1 MB" /></a>
+  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8/InkPlayer-0.8.zip"><img src="assets/zip.svg" width="232" height="56" alt="ZIP — EXE and install script, 1.1 MB" /></a>
 </p>
 
 <p align="center">
