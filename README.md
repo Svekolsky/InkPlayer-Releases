@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8/InkPlayer-Setup-0.8.exe"><img src="assets/download.svg" width="256" height="56" alt="Download for Windows — Installer, 64-bit, 3.2 MB" /></a>
+  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8.1/InkPlayer-Setup-0.8.1.exe"><img src="assets/download.svg" width="256" height="56" alt="Download for Windows — Installer, 64-bit, 3.1 MB" /></a>
   &nbsp;
-  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8/InkPlayer-0.8.zip"><img src="assets/zip.svg" width="232" height="56" alt="ZIP — EXE and install script, 1.1 MB" /></a>
+  <a href="https://github.com/Svekolsky/InkPlayer-Releases/releases/download/v0.8.1/InkPlayer-0.8.1.zip"><img src="assets/zip.svg" width="232" height="56" alt="ZIP — EXE and install script, 1.1 MB" /></a>
 </p>
 
 <p align="center">
@@ -25,13 +25,14 @@ A quiet, dark video player for Windows on the VLC engine.
 - **Create subtitles** (Ctrl+T) — local speech recognition with whisper.cpp, translated into Russian.
 - **Tracks at a glance** — Subtitles and Audio buttons show what's playing; add SRT / ASS / SSA / VTT / SUB.
 - **Full-resolution frames** — Shift+S saves a PNG at the video's original size, even when paused.
+- **Links too** — paste a video link with Ctrl+V or drag it from the browser; http, https, rtsp and file:// work.
 - **Calm fullscreen** — the control bar and cursor slide away after 3 seconds.
 - **Russian or English** — switch any time in *About*.
 
 <details>
 <summary>Keys</summary>
 
-Space play / pause · ← → ±10 s (Shift: 1 min) · ↑ ↓ volume · M mute · F fullscreen · Shift+S save frame · Ctrl+O open · Ctrl+T subtitles · Ctrl+− / Ctrl++ / Ctrl+0 subtitle size
+Space play / pause · ← → ±10 s (Shift: 1 min) · ↑ ↓ volume · M mute · F fullscreen · Shift+S save frame · Ctrl+O open · Ctrl+V open link · Ctrl+T subtitles · Ctrl+− / Ctrl++ / Ctrl+0 subtitle size
 
 </details>
 
